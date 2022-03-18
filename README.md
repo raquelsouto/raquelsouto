@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **raquelsouto/raquelsouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi there 👋, I'm Raquel Winkeler!
+
+- 🔭 I’m currently working with Spring Framework/Java 
+- 🌱 I’m currently learning C#, Angular and Javascript
+- 📫 E-mail: kelsouto@gmail.com | Linkedin: <a href="https://www.linkedin.com/in/raquel-winkeler/">Raquel Winkeler</a>
+- 😄 Pronouns: She/Her
+
+<div align="center">
+  <a href="https://github.com/raquelsouto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquelsouto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelsouto&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
