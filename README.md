@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi there 👋, I'm Raquel Winkeler!
 
 - 🔭 I’m currently working with Spring Framework/Java 
-- 🌱 I’m currently learning C#, Angular and Javascript
+- 🌱 I’m currently learning Angular and Javascript
 - 📫 E-mail: kelsouto@gmail.com | Linkedin: <a href="https://www.linkedin.com/in/raquel-winkeler/">Raquel Winkeler</a>
 - 😄 Pronouns: She/Her
 
